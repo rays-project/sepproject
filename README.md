@@ -1,2 +1,2 @@
 # sepproject
-this repo is made for practice
+This is my file
